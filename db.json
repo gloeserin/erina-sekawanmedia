@@ -1,0 +1,112 @@
+{
+  "tickets": [
+    {
+      "customerName": "Tom Cruise",
+      "previous": "on 24.05.2019",
+      "date": "May 26, 2019",
+      "hour": "6.30 PM",
+      "priority": "HIGH",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "Contact Email not Linked",
+        "description": "Updated 1 day ago"
+      }
+    },
+    {
+      "customerName": "Matt Damon",
+      "previous": "on 24.05.2019",
+      "hour": "8.00 AM",
+      "date": "May 26, 2019",
+      "priority": "LOW",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "Adding Images to Featured Posts",
+        "description": "Updated 1 day ago"
+      }
+    },
+    {
+      "customerName": "Robert Downey",
+      "previous": "on 24.05.2019",
+      "hour": "7.30 PM",
+      "date": "May 26, 2019",
+      "priority": "HIGH",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "When will I be charged this month?",
+        "description": "Updated 1 day ago"
+      }
+    },
+    {
+      "customerName": "Christian Bale",
+      "previous": "on 24.05.2019",
+      "hour": "5.00 PM",
+      "date": "May 25, 2019",
+      "priority": "NORMAL",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "Payment not going through",
+        "description": "Updated 2 days ago"
+      }
+    },
+    {
+      "customerName": "Henry Cavil",
+      "previous": "on 24.05.2019",
+      "hour": "4.00 PM",
+      "date": "May 25, 2019",
+      "priority": "HIGH",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "Unable to add replies",
+        "description": "Updated 2 days ago"
+      }
+    },
+    {
+      "customerName": "Chris Evans",
+      "previous": "on 24.05.2019",
+      "hour": "2.00 PM",
+      "date": "May 25, 2019",
+      "priority": "NORMAL",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "Downtime since last week",
+        "description": "Updated 3 days ago"
+      }
+    },
+    {
+      "customerName": "Sam Smith",
+      "hour": "11.30 AM",
+      "previous": "on 24.05.2019",
+      "date": "May 25, 2019",
+      "priority": "LOW",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "Referral Bonus",
+        "description": "Updated 4 days ago"
+      }
+    },
+    {
+      "customerName": "Steve Rogers",
+      "previous": "on 24.05.2019",
+      "hour": "1.00 PM",
+      "date": "May 24, 2019",
+      "priority": "NORMAL",
+      "ticketDetails": {
+        "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+        "title": "How do I change my password?",
+        "description": "Updated 6 days ago"
+      }
+    }
+  ],
+  "unresolvedTicketCategories": [
+    { "name": "Waiting on Feature Request", "count": 4238 },
+    { "name": "Awaiting Customer Response", "count": 1005 },
+    { "name": "Awaiting Developer Fix", "count": 914 },
+    { "name": "Pending", "count": 281 }
+  ],
+  "tasks": [
+    { "name": "Create new task", "status": "new", "completed": false },
+    { "name": "Finish ticket update", "status": "urgent", "completed": false },
+    { "name": "Create new ticket example", "status": "new", "completed": false },
+    { "name": "Update ticket report", "status": "default", "completed": true }
+  ]
+}
